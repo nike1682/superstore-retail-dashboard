@@ -46,6 +46,11 @@ Using sales data from Superstore, I created a dashboard that tracks:
 
 ---
 
+## 📸 Dashboard Preview
+
+![Dashboard Preview](superstore.png)
+
+
 ## 🧠 Skills Demonstrated
 
 - Writing SQL queries to transform raw data
